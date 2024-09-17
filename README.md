@@ -1,7 +1,7 @@
 # 1U_12hp_Eurorack_Case
 A 1U 12HP eurorack case. Standalone, USB-C Powered, and designed to fit Bib as an end of chain effect for groove boxes and synths.
 
-Available in 2 versions, with and without 3.5mm stereo outputs from the back of the module.
+Available in 2 versions, with and without 3.5mm stereo outputs from the back of the module.'wIO' is with the stereo IO holes.
 
 Can be printed with a 0.6 mm or smaller nozzle, ~0.2 mm layer height, FDM. Modeled in supports for the rails, to be removed with a long pokey thing.
 
