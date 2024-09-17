@@ -12,4 +12,4 @@ BOM (details to come)
 - Power Supply connector, I used 5 pin Dupont, but you could also use a 10 pos IDC
 - Extra 100 uF Electrolytic Caps (why not?)
 - optional 2x Stereo Jacks 
-- optional 2x3 pos connector, I used 2x 3 pos Dupont, ut you coudl also use 6 pos IDC 
+- optional 2x3 pos connector, I used 2x 3 pos Dupont, but you could also use 6 pos IDC 
