@@ -2,9 +2,9 @@
 ## Description
 A 1U 12HP eurorack case. Standalone, USB-C powered, and designed to fit [**Bib**](https://plinkysynth.com/docs/bib-manual) as an end of chain effect for groove boxes and synths.
 
-Available in 2 versions, with and without 3.5mm stereo input and output on the case. **'wIO'** is with the stereo IO holes. My stereo jacks were a little shorter than intended, so I drilled the holes out but left the model at maximum material condition.
+Available in 2 versions, with and without 3.5mm stereo input and output on the case. **'wIO'** is with the stereo IO holes. 
 
-Can be printed with a 0.6 mm or smaller nozzle, ~0.2 mm layer height, FDM. Modeled in supports for the rails, to be removed with a long pokey thing.
+Can be printed with a 0.6 mm or smaller nozzle, ~0.2 mm layer height, FDM. 
 
 ## BOM
 - USB-C Panel mount https://a.co/d/j9zBBSZ
@@ -15,3 +15,8 @@ Can be printed with a 0.6 mm or smaller nozzle, ~0.2 mm layer height, FDM. Model
 - for **wIO** variant,
   - 2x Stereo Jacks 
   - 2x3 pos connector, I used 2x 3 pos Dupont, but you could also use 6 pos IDC 
+
+## Notes
+- My stereo jacks were a little shorter than intended, so I drilled the holes out (allowing the jacks to sit deeper), but left the model at maximum material condition.
+- Modeled in supports for the rails, to be removed with a long pokey thing.
+  - These seem to be out of place in the *.stl's but are were fine when I printed from the *.step files
