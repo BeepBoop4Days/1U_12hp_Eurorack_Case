@@ -1,5 +1,5 @@
 # 1U_12hp_Eurorack_Case
-A 1U 12HP eurorack case. Standalone, USB-C powered, and designed to fit [Bib] (https://plinkysynth.com/docs/bib-manual) as an end of chain effect for groove boxes and synths.
+A 1U 12HP eurorack case. Standalone, USB-C powered, and designed to fit [Bib](https://plinkysynth.com/docs/bib-manual) as an end of chain effect for groove boxes and synths.
 
 Available in 2 versions, with and without 3.5mm stereo outputs from the back of the module. 'wIO' is with the stereo IO holes. My stereo jacks are a little shorter than intended, so I drilled the holes out but left the model at MMC.
 
