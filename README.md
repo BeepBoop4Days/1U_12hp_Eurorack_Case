@@ -11,7 +11,7 @@ Can be printed with a 0.6 mm or smaller nozzle, ~0.2 mm layer height, FDM.
 ## BOM
 - USB-C Panel mount https://a.co/d/j9zBBSZ
   - JST PH 2A Connector (for USB-C connector, optional)
-- Power Supply DD1718PA, or similar like https://a.co/d/fDGZoHY
+- Power Supply DD1718PA, or similar https://a.co/d/fDGZoHY
   - Power Supply connector, I used 5 pin Dupont, but you could also use a 10 pos IDC
 - Extra 100 uF Electrolytic Capacitors for the power rails (why not?)
 - for **wIO** variant,
