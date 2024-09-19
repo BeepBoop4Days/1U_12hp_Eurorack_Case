@@ -1,4 +1,5 @@
 # 1U_12hp_Eurorack_Case
+[1U 12hp Eurorack Case with USB-C Power, no stereo in or out](/assets/images/1U_12HP_USBC.webp)
 ## Description
 A 1U 12HP eurorack case. Standalone, USB-C powered, and designed to fit [**Bib**](https://plinkysynth.com/docs/bib-manual) as an end of chain effect for groove boxes and synths.
 
