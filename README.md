@@ -24,3 +24,9 @@ Can be printed with a 0.6 mm or smaller nozzle, ~0.2 mm layer height, FDM.
   - These seem to be out of place in the *.stl's but are were fine when I printed from the *.step files
  
 ![1U 12hp Eurorack Case with USB-C Power, no stereo in or out](/assets/images/1U_12HP_USBC.webp)
+
+
+## Larger 42 HP case
+Features a mount for a belton nominally 150mm spring reverb tank, as used with the Dreadbox Antiphon. Holes are made for M4 heat set threaded inserts, but can be used with bolts and nuts. Recommended cleaning the build plate really well and possibly using ears, as mine curled in the corners.
+
+![42 HP 46mm deep 3D printed eurorack case for the Dreadbox Antiphon, with external spring reverb.](/assets/images/Dreadbox_Antiphon_Case.jpg)
